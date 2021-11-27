@@ -1,6 +1,6 @@
 # EtherWorld
 
-The [EtherWorld](https://etherworld.co/) is a blcokchain content publishing website to share news, technology & project updates.
+The [EtherWorld](https://etherworld.co/) is a blockchain content publishing website to share news, technology & project updates.
 
 If you're new to the blockchain technology, start at this [guide](https://etherworld.co/2017/10/16/etherworlds-good-read-on-blockchain-cryptocurrency/).
 
