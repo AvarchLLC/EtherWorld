@@ -14,10 +14,12 @@ You've something to share with the blockchain community, join us on [Discord](ht
 
 * Website - https://etherworld.co/
 * Twitter - https://twitter.com/ether_world
+* YouTube - https://www.youtube.com/channel/UCnceAY-vAQsO8TgGAj5SGFA
 * Facebook - https://www.facebook.com/etherworld2017
 * LinkedIn - https://www.linkedin.com/company/etherworld/
 * Medium - https://medium.com/@ether_world
 * Instagram - https://www.instagram.com/etherworld.co/
+* Discord - https://discord.io/EtherWorld
 
 **Donations**: 0xFD868dB0696ef762351F8421535cC5f9F423B23C
 
