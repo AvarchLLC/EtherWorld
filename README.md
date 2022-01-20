@@ -21,10 +21,8 @@ You've something to share with the blockchain community, join us on [Discord](ht
 * Instagram - https://www.instagram.com/etherworld.co/
 * Discord - https://discord.io/EtherWorld
 
-**Donations**: 0xFD868dB0696ef762351F8421535cC5f9F423B23C
-
 ### Disclaimer
 This is a project by Avarch LLC. The information contained on the EtherWorld [website](https://etherworld.co/) and [YouTube](https://www.youtube.com/channel/UCnceAY-vAQsO8TgGAj5SGFA) is for education purpose only. Under any circumstances, these should not be considered as an investment advice. Readers are suggested to conduct their own research, review, analyze and verify the content before relying on them.
 
-
-
+### Support
+If you want to support our contributors, donate ETH, DAI, & ERC-20 tokens to 0xFD868dB0696ef762351F8421535cC5f9F423B23C
